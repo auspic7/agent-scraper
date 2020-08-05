@@ -6,7 +6,7 @@ Skilled industrial Personnel(산업기능요원) companies scraper
 
 ## 사용법
 ```
-git clone 
+git clone https://github.com/auspic7/agent-scraper.git
 pip3 install -r requirements.txt
 python3 app.py
 ```
